@@ -11,12 +11,6 @@ http://172.107.94.243:9000/live/premium-aostv-free/download-4rm-aostv.asia/40372
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium130/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Skysport Premierleague FHD
-http://172.107.94.243:9000/live/premium-aostv-free/download-4rm-aostv.asia/14596.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Sports", Skysport Premierleague FHD2
-http://172.107.94.243:9000/live/premium-aostv-free/download-4rm-aostv.asia/37593.ts
-
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/YJggjBFZ82Mi_CaKkPSvkRfVTsAxcl2QU8UNeahiT-w/rs:fit:750:471:1/g:ce/aHR0cHM6Ly9pMS53/cC5jb20vd3d3LmJy/b2FkYmFuZHR2bmV3/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTcvMDcvU2t5/LVNwb3J0LTIwMTcu/anBnP2ZpdD03NTAl/MkM0NzEmc3NsPTE" group-title="Sports",Skysport News 🇬🇧
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium366/index.m3u8
@@ -144,3 +138,19 @@ https://webudit.onlinewebtv.lol/lb/premium418/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/8MOB6E1XPLdQj-8ncOuTzBP_er9pwu808xwDwc3qU_0/rs:fit:750:430:1/g:ce/aHR0cHM6Ly93d3cu/bnlkamxpdmUuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzExL1N1cGVyU3Bv/cnQtbG9nbzEtNzUw/eDQzMC5qcGc" group-title="Sports", Supersport Variety 4
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium419/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/GDpUFcuVPazFHXDUjvgdUPfahBvDNpZMKNZZIlzlpAc/rs:fit:600:370:1/g:ce/aHR0cDovLzMuYnAu/YmxvZ3Nwb3QuY29t/Ly12eTh6TzdqaHN1/Yy9WQnZuU1BzdEZo/SS9BQUFBQUFBQUgx/dy9QaExNS0h4NGl4/Zy9zMTYwMC9Bc3Ry/b19TdXBlclNwb3J0/X2xvZ28ucG5n" group-title="Sports", Astrosport 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/GDpUFcuVPazFHXDUjvgdUPfahBvDNpZMKNZZIlzlpAc/rs:fit:600:370:1/g:ce/aHR0cDovLzMuYnAu/YmxvZ3Nwb3QuY29t/Ly12eTh6TzdqaHN1/Yy9WQnZuU1BzdEZo/SS9BQUFBQUFBQUgx/dy9QaExNS0h4NGl4/Zy9zMTYwMC9Bc3Ry/b19TdXBlclNwb3J0/X2xvZ28ucG5n" group-title="Sports", Astrosport 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/GDpUFcuVPazFHXDUjvgdUPfahBvDNpZMKNZZIlzlpAc/rs:fit:600:370:1/g:ce/aHR0cDovLzMuYnAu/YmxvZ3Nwb3QuY29t/Ly12eTh6TzdqaHN1/Yy9WQnZuU1BzdEZo/SS9BQUFBQUFBQUgx/dy9QaExNS0h4NGl4/Zy9zMTYwMC9Bc3Ry/b19TdXBlclNwb3J0/X2xvZ28ucG5n" group-title="Sports", Astrosport 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/GDpUFcuVPazFHXDUjvgdUPfahBvDNpZMKNZZIlzlpAc/rs:fit:600:370:1/g:ce/aHR0cDovLzMuYnAu/YmxvZ3Nwb3QuY29t/Ly12eTh6TzdqaHN1/Yy9WQnZuU1BzdEZo/SS9BQUFBQUFBQUgx/dy9QaExNS0h4NGl4/Zy9zMTYwMC9Bc3Ry/b19TdXBlclNwb3J0/X2xvZ28ucG5n" group-title="Sports", Astrosport 4
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium126/index.m3u8
