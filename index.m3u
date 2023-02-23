@@ -216,6 +216,46 @@ https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports", Telemundo
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium131/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", TUDN
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium66/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium74/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", RTE 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium364/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", RTE 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium365/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", MUTV
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium377/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Movistar Laliga 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium538/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Movistar Laliga 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Movistar Laliga 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",Digi Sport 1
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium400/index.m3u8
