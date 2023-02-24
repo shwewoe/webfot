@@ -303,3 +303,59 @@ https://webudit.onlinewebtv.lol/lb/premium393/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/bbm0rEVmhJ6Iq9ZhBEpXRJjQcz_tfOk3TUAXMjd7CIs/rs:fit:588:328:1/g:ce/aHR0cHM6Ly93d3cu/dG90YWFsdHYubmwv/Y29udGVudC9pbWFn/ZXMvMjAxNS1qYWFy/LXZhbi1zdWNjZXMt/emlnZ28tc3BvcnQt/ZW4tZmFsZW4tcnRs/LXouanBn" group-title="Sports", Ziggo Sport Documentary
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium383/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Match! Football 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium136/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Match! Football 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium137/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Match! Football 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium138/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", RMC Sport 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium119/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", RMC Sport 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium120/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport Klub 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium101/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport Klub 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium102/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport Klub 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium103/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport Klub 4
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium104/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", TSN 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium111/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", TSN 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium112/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", TSN 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium113/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", TSN 4
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium114/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", TSN 5
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium115/index.m3u8
