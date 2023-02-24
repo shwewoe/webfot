@@ -240,6 +240,14 @@ https://webudit.onlinewebtv.lol/lb/premium364/index.m3u8
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium365/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/KSNgp3pVCJYXpeTOqNR83h84E02rxepVC-_3llfFCFo/rs:fit:610:350:1/g:ce/aHR0cHM6Ly9pLnBv/c3RpbWcuY2MveGR0/ZlkwdFYvZXpnaWYt/Mi01MDU1ZGIyNzJm/LnBuZw" group-title="Sports", Premier Sport 1 UK
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium451/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/KSNgp3pVCJYXpeTOqNR83h84E02rxepVC-_3llfFCFo/rs:fit:610:350:1/g:ce/aHR0cHM6Ly9pLnBv/c3RpbWcuY2MveGR0/ZlkwdFYvZXpnaWYt/Mi01MDU1ZGIyNzJm/LnBuZw" group-title="Sports", Premier Sport 2 UK
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium550/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/yOl1eZO9uiFnYGBxiFHqv5_eXqQJWZ-Hc2tmZ2RS7I4/rs:fit:600:450:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LmJy/b2FkYmFuZHR2bmV3/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDcvTVV0/di1sb2dvLmpwZz93/PTYwMCZzc2w9MQ" group-title="Sports", MUTV
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium377/index.m3u8
