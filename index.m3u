@@ -371,3 +371,39 @@ https://webudit.onlinewebtv.lol/lb/premium114/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", TSN 5
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium115/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", WWE Network 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium376/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", BBC One
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium356/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", BBC Two
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium357/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", BBC Three
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium358/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", BBC Four
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium359/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", ITV 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium350/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", ITV 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium351/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", ITV 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium352/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", ITV 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium353/index.m3u8
