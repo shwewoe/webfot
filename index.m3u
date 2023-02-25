@@ -492,7 +492,38 @@ https://webudit.onlinewebtv.lol/lb/premium7/index.m3u8
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium40/index.m3u8
 
-💯💯💯💯💯💯💯
+#EXTINF:-1 tvg-logo="" group-title="Sports", Canal+ Sport 1 Poland 🇵🇱
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium48/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Canal+ Sport 2 Poland 🇵🇱
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium73/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Polsat Sport News Poland 🇵🇱
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium443/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Polsat Sport Poland 🇵🇱
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium47/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Polsat Sport Extra Poland 🇵🇱
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium50/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Euro Sport 1 Poland 🇵🇱
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium57/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", Euro Sport 2 Poland 🇵🇱
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium58/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", TVP Sport Poland 🇵🇱
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudit.onlinewebtv.lol/lb/premium128/index.m3u8
+💯💯💯💯💯💯💯💯💯💯💯💯💯💯
 #EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", Animal Planet
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.onlinewebtv.lol/lb/premium304/index.m3u8
