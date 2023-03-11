@@ -529,8 +529,8 @@ https://webudit.onlinewebtv.lol/lb/premium50/index.m3u8
 https://webudit.onlinewebtv.lol/lb/premium57/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/s_Yk8JZrwmVO8cX7D8p_sEdsLeodl04m8_wJ1Lpuvzk/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5D/T183Q0wzUmxZNDBs/SzhKZUs3Z0RBSGFF/SyZwaWQ9QXBp" group-title="Sports", Euro Sport 2 Poland 🇵🇱
-#EXTVLCOPT:http-referrer=olacast.live/
-https://webudit.onlinewebtv.lol/lb/premium58/index.m3u8
+#EXTVLCOPT:http-referrer=https://gocast2.com/
+https://x20.flowerscast.com:999/hls/eurosp2.m3u8?md5=v5m2Ij7nKiFJPDVhwtBpWQ&expires=1678514469
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/IrzYGOu2KzXPP8ZmuKTV3TgAkRXA21Ad9xPoA4SUyzs/rs:fit:496:252:1/g:ce/aHR0cHM6Ly9pLndw/aW1nLnBsLzEyMDB4/MC9tLmdhZHpldG9t/YW5pYS5wbC90dnAt/c3BvcnQtMDcyY2U0/ZDNhZjAzY2MwNzQz/YzkxZi5qcGc" group-title="Sports", TVP Sport Poland 🇵🇱
 #EXTVLCOPT:http-referrer=olacast.live/
