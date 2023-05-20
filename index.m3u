@@ -580,7 +580,7 @@ https://webudit.salamus1.lol/lb/premium345/index.m3u8
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium347/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", FOX NEWS CHANNEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png" group-title="News", FOX NEWS CHANNEL 
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium382/index.m3u8
 
@@ -588,18 +588,18 @@ https://webudit.salamus1.lol/lb/premium382/index.m3u8
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium349/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", The Weather Channel 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News", The Weather Channel 
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium394/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", CNBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="News", CNBC
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium309/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", Headlines News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News", Headlines News
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium323/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News", Channel 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/1200px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="News", Channel 4
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium354/index.m3u8
