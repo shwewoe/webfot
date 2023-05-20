@@ -603,3 +603,9 @@ https://webudit.salamus1.lol/lb/premium323/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/1200px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="News", Channel 4
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium354/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/MSNBC_logo_%282000-2006%29.png" group-title="News", MSNBC 🇺🇲
+
+#EXTVLCOPT:http-referrer=olacast.live/
+
+https://webudit.salamus1.lol/lb/premium327/index.m3u8
