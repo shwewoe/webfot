@@ -699,39 +699,45 @@ https://webudit.salamus1.lol/lb/premium560/index.m3u8
 https://webudit.salamus1.lol/lb/premium561/index.m3u8
 
 💯💯💯💯💯💯💯💯💯💯💯💯💯💯
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", Animal Planet
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png" group-title="Life & Knowledge", Animal Planet
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium304/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", Discovery HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSudLCNCvnqPSihSRYvyJsIqeP4LMp83Urg&usqp=CAU" group-title="Life & Knowledge", Discovery HD
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium313/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", Discovery Life
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_Life_logo.svg/1108px-Discovery_Life_logo.svg.png" group-title="Life & Knowledge", Discovery Life
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium311/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", Discovery Investigation
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Life & Knowledge", Discovery Investigation
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium324/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", History TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5-7KRhQ6zYpLDytvFVY-wa2QVpfBZ-GZww&usqp=CAU" group-title="Life & Knowledge", History TV
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium322/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", TLC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGZF5Jw8BFiJD7feBGDhS_EEcHXAi-0o-yw&usqp=CAU" group-title="Life & Knowledge", The CW
+
+#EXTVLCOPT:http-referrer=olacast.live/
+
+https://webudit.salamus1.lol/lb/premium300/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="Life & Knowledge", TLC
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium337/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", Travel Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Life & Knowledge", Travel Channel
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium340/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", NGC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtfRcSqoOrgLd5p0OyO_ygtIIaRaPIVloilg&usqp=CAU" group-title="Life & Knowledge", NGC
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium328/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Life & Knowledge", The Food Network 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Life & Knowledge", The Food Network 
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium384/index.m3u8
 💯💯💯💯💯💯💯💯💯
