@@ -769,5 +769,11 @@ https://webudit.salamus1.lol/lb/premium354/index.m3u8
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium327/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="movies", test
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RjMjU0NDMtMmM2MS00MTRmLWI1YmMtZWQwZjUxNzZhMWEyXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg" group-title="movies", polite society
 https://kda1jiopilm2310.streamvid.net/hls/n5ajtiml2rmne42h4xxqjdjq2gtle3sxrhluid4ss,nxj7jxz4lilyzjgz7wa,wtj7jxz4lih2ywcz2va,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://nordiskfilmogtvfond.com/assets/news/_contentImage/318265/Sisu-poster-Nordisk-Film_2023-05-04-172056_itba.jpg" group-title="movies", sisu
+https://da1jiopilm1609m.streamvid.net/hls/,n5aj7jfr2rmne42h4xwqjvz43yjb4alvfaha6qzcvkgzvev4puidz57gjgva,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXlTfkrYFyoUSIXvqQ-Vn_aEcUlevPUXPHeg&usqp=CAU" group-title="movies", kkn
+https://da1jiopilm1609m.streamvid.net/hls/,n5ajtggd2rmne42h4xwajerqqpklf3mgjg4a6afpe2sk4youvr7afvqwum4a,.urlset/master.m3u8
