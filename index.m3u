@@ -737,9 +737,12 @@ https://webudit.salamus1.lol/lb/premium340/index.m3u8
 #EXTVLCOPT:http-referrer=olacast.live/
 https://webudit.salamus1.lol/lb/premium328/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Life & Knowledge", The Food Network 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Life & Knowledge", NGC
+
 #EXTVLCOPT:http-referrer=olacast.live/
-https://ddy1.salamus1.lol/ddy1/premium384/tracks-v1a1/mono.m3u8
+
+https://webudit.salamus1.lol/lb/premium384/index.m3u8
+
 💯💯💯💯💯💯💯💯💯
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/375NW5yL8owK_hW9igW9sh-YJbda9ZcygpDXuVvK_R7l-yJp-fuhb4qvUw_FE4XW4ms" group-title="News", CNN NEWS 
 #EXTVLCOPT:http-referrer=olacast.live/
